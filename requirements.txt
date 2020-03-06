@@ -110,7 +110,7 @@ w3lib==1.20.0
 Wand==0.5.1
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.4.2
 wrapt==1.11.2
 xarray==0.10.7
