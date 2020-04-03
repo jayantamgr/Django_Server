@@ -12,8 +12,8 @@ from rest_framework_simplejwt.views import (
 )
 
 router = DefaultRouter()
-router.register('person', PersonViewSet, basename='person')
-router.register('createuser', createUserViewSet, basename='user')
+router.register('person', PersonViewSet, basename='person') # Route for person list
+router.register('createuser', createUserViewSet, basename='user') # Route for creating user (POST request)
 
 urlpatterns = [
     path('', include(router.urls)),
