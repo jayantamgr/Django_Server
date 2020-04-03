@@ -1,4 +1,13 @@
+# Django #
+*.log
+*.pot
+*.pyc
+*.txt
+__pycache__
+
 env/
 requirements.txt
-.vscode/
-.gitignore
+.vscode/* 
+.gitignore.txt
+**/migrations/*
+settings.py
