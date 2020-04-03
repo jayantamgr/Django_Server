@@ -6,8 +6,8 @@
 __pycache__
 
 env/
-/requirements.txt
+requirements
 .vscode/ 
-.gitignore.txt
+.gitignore
 **/migrations
 settings.py
