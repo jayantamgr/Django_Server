@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'hitchhiking-django',
         'USER': 'postgres',
-        'PASSWORD': 'Dankeshun81774.,@',
+        'PASSWORD': '',
         'HOST': 'localhost'
     }
 }

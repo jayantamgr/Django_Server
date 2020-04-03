@@ -2,12 +2,12 @@
 *.log
 *.pot
 *.pyc
-*.txt
+.txt
 __pycache__
 
 env/
-requirements.txt
-.vscode/* 
+/requirements.txt
+.vscode/ 
 .gitignore.txt
-**/migrations/*
+**/migrations
 settings.py
